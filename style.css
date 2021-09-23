@@ -9,11 +9,13 @@ h1 {
 .white-font {
   color: white;
 }
-h1,
-h2 {
+
+.background {
   background-color: red;
+  padding: 5px 0px;
 }
 .background {
   background-color: red;
   padding: 5px 0px;
 }
+.span
