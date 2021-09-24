@@ -1,21 +1,18 @@
 body {
-  background-color: red;
-  color: aqua;
-  font-size: 25px;
-}
-h1 {
-  color: green;
-}
-.white-font {
-  color: white;
+  /* sets the background for all used space (if a full screen isn't used then it will fill to fit a full screen) */
+  background-image: url(media/beach.jpg);
 }
 
-.background {
+h1,
+h2 {
+  /* sets background color around the h1 text */
   background-color: red;
-  padding: 5px 0px;
 }
 .background {
-  background-color: red;
-  padding: 5px 0px;
+  background-image: url();
+  color: white;
+  height: 50vh;
 }
-.span
+.span {
+  color: aquamarine;
+}
