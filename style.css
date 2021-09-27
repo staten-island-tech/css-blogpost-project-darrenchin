@@ -12,3 +12,18 @@ body {
 .beach {
   border: 3px solid aquamarine;
 }
+.parent2 {
+  border: 5px solid aquamarine;
+  height: 500px;
+  width: 500px;
+  margin-top: 50px;
+  margin-left: 50px;
+  position: relative;
+}
+.beach2 {
+  border: 3px solid aquamarine;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
