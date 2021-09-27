@@ -1,18 +1,29 @@
 body {
-  /* sets the background for all used space (if a full screen isn't used then it will fill to fit a full screen) */
-  background-image: url(media/beach.jpg);
+  background-color: rosybrown;
 }
-
-h1,
-h2 {
-  /* sets background color around the h1 text */
-  background-color: red;
+.head {
+  text-align: center;
 }
-.background {
-  background-image: url();
-  color: white;
-  height: 50vh;
+.parent {
+  border: 5px solid aquamarine;
+  height: 500px;
+  width: 500px;
 }
-.span {
-  color: aquamarine;
+.beach {
+  border: 3px solid aquamarine;
+}
+.parent2 {
+  border: 5px solid aquamarine;
+  height: 500px;
+  width: 500px;
+  margin-left: 550px;
+  margin-bottom: 1000px;
+  position: relative;
+}
+.beach2 {
+  border: 3px solid aquamarine;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
