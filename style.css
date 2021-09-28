@@ -16,9 +16,9 @@ body {
   border: 5px solid aquamarine;
   height: 500px;
   width: 500px;
-  margin-top: 50px;
-  margin-left: 50px;
-  position: relative;
+  bottom: 46%;
+  left: 35%;
+  position: absolute;
 }
 .beach2 {
   border: 3px solid aquamarine;
