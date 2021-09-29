@@ -1,5 +1,6 @@
 body {
   background-color: rosybrown;
+  font-family: "Nunito", sans-serif;
 }
 .head {
   text-align: center;
@@ -8,8 +9,13 @@ body {
 }
 .parent {
   border: 5px solid aquamarine;
+  background-image: url(img/tanjiro\ blogpost.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
   height: 500px;
   width: 500px;
+  bottom: 40%;
+  position: absolute;
 }
 .beach {
   border: 3px solid aquamarine;
