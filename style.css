@@ -12,9 +12,11 @@ body {
   background-image: url(img/tanjiro\ blogpost.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  height: 500px;
+  background-position: center;
+  background-position: bottom;
+  height: 660px;
   width: 500px;
-  bottom: 40%;
+  bottom: 23%;
   position: absolute;
 }
 .beach {
@@ -26,9 +28,14 @@ body {
 }
 .parent2 {
   border: 5px solid aquamarine;
-  height: 500px;
+  background-image: url(img/zenitsu\ blogpost.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: bottom;
+  height: 660px;
   width: 500px;
-  bottom: 39%;
+  bottom: 23%;
   left: 35%;
   position: absolute;
 }
@@ -41,10 +48,15 @@ body {
 }
 .parent3 {
   border: 5px solid aquamarine;
-  height: 500px;
+  background-image: url(img/inosuke\ blogpost.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: bottom;
+  height: 660px;
   width: 500px;
   left: 70%;
-  bottom: 40%;
+  bottom: 23%;
   position: absolute;
 }
 .beach3 {
