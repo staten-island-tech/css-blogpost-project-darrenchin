@@ -66,3 +66,12 @@ body {
   border-left: none;
   border-right: none;
 }
+.waterbreathing {
+  color: aqua;
+}
+.thunderbreathing {
+  color: yellow;
+}
+.beastbreathing {
+  color: gray;
+}
